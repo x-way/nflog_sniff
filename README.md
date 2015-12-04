@@ -10,4 +10,5 @@ DNS packet sniffing with NFLOG in Perl or Python.
 # requirements
 
 nflog_sniffer.py requires dpkt and the nflog-bindings
+
 nflog_sniffer.pl requires Net::DNS::Packet, NetPacket::IP, NetPacket::UDP and the nflog-bindings
